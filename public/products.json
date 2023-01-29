@@ -1,0 +1,74 @@
+[
+  {
+    "model": "A2643",
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1099,
+    "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-01.jpg"
+  },
+  {
+    "model": "SM-S908B",
+    "name": "Samsung Galaxy S22 Ultra 5G",
+    "price": 1199,
+    "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-3.jpg"
+  },
+  {
+    "model": "XQBC52V",
+    "name": "Sony Xperia 1 III",
+    "price": 808,
+    "img": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-iii-02.jpg"
+  },
+  {
+    "model": "A2589",
+    "name": "Apple iPad Air (2022)",
+    "price": 999,
+    "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-air-2022-1.jpg"
+  },
+  {
+    "model": "SM-X900",
+    "name": "Samsung Galaxy Tab S8 Ultra",
+    "price": 1200,
+    "img": "https://fdn.gsmarena.com/imgroot/news/22/02/samsung-galaxy-tab-s8-promo/-1200x900m/gsmarena_001.jpg"
+  },
+  {
+    "model": "A2301",
+    "name": "Apple iPad Pro 11 (2021)",
+    "price": 1199,
+    "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-11-2021-1.jpg"
+  },
+  {
+    "model": "A2179",
+    "name": "13-inch MacBook Air",
+    "price": 999,
+    "img": "https://i.expansys.net/i/b/b329256-1.jpg"
+  },
+  {
+    "model": "A11UEK-009",
+    "name": "MSI Stealth 15M Gaming Laptop",
+    "price": 1189,
+    "img": "https://media.ldlc.com/r1600/ld/products/00/05/76/31/LD0005763189_1.jpg"
+  },
+  {
+    "model": "UX391FA-XH74T",
+    "name": "ASUS ZenBook S Ultra-Thin",
+    "price": 1999,
+    "img": "https://c1.neweggimages.com/ProductImage/34-235-034-V17.jpg"
+  },
+  {
+    "model": "A2473",
+    "name": "Apple Watch Series 7 Aluminum",
+    "price": 428,
+    "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series-7-aluminum-1.jpg"
+  },
+  {
+    "model": "A2353",
+    "name": "Apple Watch SE",
+    "price": 299,
+    "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-se-2.jpg"
+  },
+  {
+    "model": "SM-R860",
+    "name": "Samsung Galaxy Watch4",
+    "price": 200,
+    "img": "https://fdn.gsmarena.com/imgroot/reviews/21/samsung-galaxy-watch4/lifestyle/-1024w2/gsmarena_001.jpg"
+  }
+]
